@@ -1,0 +1,11 @@
+# PentaOx
+
+> PentaOx builds AI agents, Node.js apps, and integrations that fix real business problems. Diagnosis first — AI is a tool, solutions are the product.
+
+## Pages
+
+- [Home](/): Overview of PentaOx — AI agents, Node.js apps, and troubleshooting.
+- [Agents](/agents): Meet Scout, Arrow, Quill, and North — four specialist AI agents you can chat with live.
+- [Services](/services): Custom AI agents, Node.js applications, troubleshooting, and system integration.
+- [Pricing](/pricing): Engagement models and pricing tiers.
+- [Contact](/contact): Describe your problem — reply within 24 hours.
